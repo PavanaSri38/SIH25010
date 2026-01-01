@@ -88,3 +88,4 @@
 [2026-04-03T10:00:00] D.J.V.V. Bhaskar — docs: update README with deployment instructions — docs
 [2026-04-03T11:00:00] S. Chaitanya — chore: add VERSION file v1.0.0 — release
 [2026-04-03T12:00:00] R. Pavana Sri — release: v1.0.0 Smart Crop Advisory System 🌾 — release
+[2026-01-01T09:00:00] R. Pavana Sri — chore: initialise project structure and folders — project-setup
