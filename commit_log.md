@@ -94,3 +94,4 @@
 [2026-01-02T11:00:00] R. Pavana Sri — feat(config): add Pydantic settings for all API keys — backend
 [2026-01-03T09:00:00] R. Pavana Sri — feat(db): set up SQLAlchemy engine and Base — backend
 [2026-01-03T11:00:00] R. Pavana Sri — feat(models): add User ORM model with OTP fields — backend
+[2026-01-04T09:00:00] R. Pavana Sri — feat(models): add SoilAnalysisHistory ORM model — backend
