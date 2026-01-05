@@ -97,3 +97,4 @@
 [2026-01-04T09:00:00] R. Pavana Sri — feat(models): add SoilAnalysisHistory ORM model — backend
 [2026-01-04T11:00:00] R. Pavana Sri — feat(db): add init_database script — backend
 [2026-01-05T09:00:00] R. Pavana Sri — feat(auth): implement OTP generation utility — auth
+[2026-01-05T11:00:00] R. Pavana Sri — feat(auth): add SendGrid email OTP service — auth
