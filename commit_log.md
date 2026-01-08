@@ -11,3 +11,4 @@
 [2026-01-06T09:00:00] R. Pavana Sri — feat(auth): add register, login, verify-OTP endpoints — auth
 [2026-01-07T09:00:00] M. Hema Latha — feat(weather): integrate Open-Meteo geocoding API — weather
 [2026-01-07T11:00:00] M. Hema Latha — feat(weather): add climate alert detection — weather
+[2026-01-08T09:00:00] M. Hema Latha — feat(weather): add GET /api/weather/current endpoint — weather
