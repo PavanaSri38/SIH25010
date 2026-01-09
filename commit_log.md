@@ -104,3 +104,4 @@
 [2026-01-08T09:00:00] M. Hema Latha — feat(weather): add GET /api/weather/current endpoint — weather
 [2026-01-08T11:00:00] M. Hema Latha — feat(market): implement market price service — market
 [2026-01-09T09:00:00] M. Hema Latha — feat(market): add GET /api/market/prices endpoint — market
+[2026-01-09T11:00:00] M. Hema Latha — feat(ai): add Gemini 2.5 Flash service with caching — ai
