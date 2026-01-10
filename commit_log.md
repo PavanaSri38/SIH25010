@@ -16,3 +16,4 @@
 [2026-01-09T09:00:00] M. Hema Latha — feat(market): add GET /api/market/prices endpoint — market
 [2026-01-09T11:00:00] M. Hema Latha — feat(ai): add Gemini 2.5 Flash service with caching — ai
 [2026-01-10T09:00:00] M. Hema Latha — feat(soil): add soil type detection service — soil
+[2026-01-10T11:00:00] M. Hema Latha — feat(crop): implement 9-step crop recommendation engine — crop
