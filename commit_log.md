@@ -107,3 +107,4 @@
 [2026-01-09T11:00:00] M. Hema Latha — feat(ai): add Gemini 2.5 Flash service with caching — ai
 [2026-01-10T09:00:00] M. Hema Latha — feat(soil): add soil type detection service — soil
 [2026-01-10T11:00:00] M. Hema Latha — feat(crop): implement 9-step crop recommendation engine — crop
+[2026-01-11T09:00:00] M. Hema Latha — data: add crops.json with 15 Indian crops metadata — data
