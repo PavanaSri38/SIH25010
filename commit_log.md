@@ -19,3 +19,4 @@
 [2026-01-10T11:00:00] M. Hema Latha — feat(crop): implement 9-step crop recommendation engine — crop
 [2026-01-11T09:00:00] M. Hema Latha — data: add crops.json with 15 Indian crops metadata — data
 [2026-01-11T11:00:00] M. Hema Latha — feat(crop): add POST /api/crop/recommend endpoint — crop
+[2026-01-12T09:00:00] M. Hema Latha — feat(ml): implement MobileNetV2 DiseaseDetector class — ml
