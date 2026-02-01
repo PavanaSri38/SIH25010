@@ -21,3 +21,4 @@
 [2026-01-11T11:00:00] M. Hema Latha — feat(crop): add POST /api/crop/recommend endpoint — crop
 [2026-01-12T09:00:00] M. Hema Latha — feat(ml): implement MobileNetV2 DiseaseDetector class — ml
 [2026-02-01T09:00:00] D.J.V.V. Bhaskar — feat(disease): add POST /api/disease/detect endpoint — disease
+[2026-02-01T11:00:00] D.J.V.V. Bhaskar — feat(soil): add soil analysis endpoint with scoring — soil
