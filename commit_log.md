@@ -114,3 +114,4 @@
 [2026-02-01T11:00:00] D.J.V.V. Bhaskar — feat(soil): add soil analysis endpoint with scoring — soil
 [2026-02-02T09:00:00] D.J.V.V. Bhaskar — feat(app): wire all routers into FastAPI with CORS — backend
 [2026-02-02T11:00:00] D.J.V.V. Bhaskar — deps: add frontend package.json with React 18 — frontend
+[2026-02-03T09:00:00] D.J.V.V. Bhaskar — config(vite): set up Vite with API proxy to :8000 — frontend
