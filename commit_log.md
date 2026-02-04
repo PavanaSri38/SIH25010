@@ -27,3 +27,4 @@
 [2026-02-03T09:00:00] D.J.V.V. Bhaskar — config(vite): set up Vite with API proxy to :8000 — frontend
 [2026-02-03T11:00:00] D.J.V.V. Bhaskar — feat(frontend): add index.html entry point — frontend
 [2026-02-04T09:00:00] D.J.V.V. Bhaskar — feat(frontend): add React entry point main.jsx — frontend
+[2026-02-04T11:00:00] D.J.V.V. Bhaskar — feat(frontend): add App.jsx with all 10 routes — frontend
