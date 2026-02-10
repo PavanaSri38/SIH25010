@@ -128,3 +128,4 @@
 [2026-02-08T11:00:00] D.J.V.V. Bhaskar — feat(ui): build DiseaseDetection page with upload — ui
 [2026-02-09T09:00:00] D.J.V.V. Bhaskar — feat(ui): build Weather page with alert cards — ui
 [2026-02-09T11:00:00] D.J.V.V. Bhaskar — feat(ui): build MarketPrices page with trend badge — ui
+[2026-02-10T09:00:00] D.J.V.V. Bhaskar — feat(ui): add About page with team and tech stack — ui
