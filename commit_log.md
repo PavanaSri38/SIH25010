@@ -135,3 +135,4 @@
 [2026-02-12T09:00:00] D.J.V.V. Bhaskar — feat(i18n): add Telugu locale JSON file — i18n
 [2026-02-12T11:00:00] D.J.V.V. Bhaskar — feat(i18n): add Tamil locale JSON file — i18n
 [2026-02-13T09:00:00] D.J.V.V. Bhaskar — feat(i18n): add Marathi and Gujarati locale files — i18n
+[2026-02-13T11:00:00] D.J.V.V. Bhaskar — feat(i18n): add Bengali locale JSON file — i18n
