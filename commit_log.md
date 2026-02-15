@@ -138,3 +138,4 @@
 [2026-02-13T11:00:00] D.J.V.V. Bhaskar — feat(i18n): add Bengali locale JSON file — i18n
 [2026-02-14T09:00:00] D.J.V.V. Bhaskar — docs: add .env.example with API key placeholders — docs
 [2026-02-14T11:00:00] D.J.V.V. Bhaskar — chore: add start.bat one-click launcher for Windows — devops
+[2026-02-15T09:00:00] D.J.V.V. Bhaskar — chore: add stop.bat to kill backend and frontend — devops
