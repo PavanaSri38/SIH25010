@@ -51,3 +51,4 @@
 [2026-02-15T09:00:00] D.J.V.V. Bhaskar — chore: add stop.bat to kill backend and frontend — devops
 [2026-02-15T11:00:00] D.J.V.V. Bhaskar — chore: add diagnose.bat to check system status — devops
 [2026-02-16T09:00:00] D.J.V.V. Bhaskar — test: add Gemini API connectivity test script — test
+[2026-02-16T11:00:00] D.J.V.V. Bhaskar — feat(context): add context service for soil data — backend
