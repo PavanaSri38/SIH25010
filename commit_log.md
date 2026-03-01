@@ -143,3 +143,4 @@
 [2026-02-16T09:00:00] D.J.V.V. Bhaskar — test: add Gemini API connectivity test script — test
 [2026-02-16T11:00:00] D.J.V.V. Bhaskar — feat(context): add context service for soil data — backend
 [2026-02-17T09:00:00] D.J.V.V. Bhaskar — feat(i18n): add Hindi and Telugu backend locale files — i18n
+[2026-03-01T09:00:00] S. Chaitanya — docs(ml): add README for plant disease model directory — docs
