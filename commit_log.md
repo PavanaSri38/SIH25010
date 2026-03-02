@@ -56,3 +56,4 @@
 [2026-03-01T09:00:00] S. Chaitanya — docs(ml): add README for plant disease model directory — docs
 [2026-03-01T11:00:00] S. Chaitanya — docs: add CHANGELOG.md tracking v1.0.0 features — docs
 [2026-03-02T09:00:00] S. Chaitanya — feat(backend): add global exception handlers — backend
+[2026-03-02T11:00:00] S. Chaitanya — feat(ui): add 404 NotFound page — ui
