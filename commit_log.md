@@ -55,3 +55,4 @@
 [2026-02-17T09:00:00] D.J.V.V. Bhaskar — feat(i18n): add Hindi and Telugu backend locale files — i18n
 [2026-03-01T09:00:00] S. Chaitanya — docs(ml): add README for plant disease model directory — docs
 [2026-03-01T11:00:00] S. Chaitanya — docs: add CHANGELOG.md tracking v1.0.0 features — docs
+[2026-03-02T09:00:00] S. Chaitanya — feat(backend): add global exception handlers — backend
