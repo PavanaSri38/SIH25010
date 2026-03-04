@@ -149,3 +149,4 @@
 [2026-03-02T11:00:00] S. Chaitanya — feat(ui): add 404 NotFound page — ui
 [2026-03-03T09:00:00] S. Chaitanya — feat(api): add /health check endpoint — backend
 [2026-03-03T11:00:00] S. Chaitanya — feat(ui): add reusable Spinner loading component — ui
+[2026-03-04T09:00:00] S. Chaitanya — test: add unit tests for OTP generation and validation — test
