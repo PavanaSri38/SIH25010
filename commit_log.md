@@ -155,3 +155,4 @@
 [2026-03-05T11:00:00] S. Chaitanya — test: add unit tests for climate alert detection — test
 [2026-03-06T09:00:00] S. Chaitanya — test: add unit tests for crop scoring pipeline — test
 [2026-03-06T11:00:00] S. Chaitanya — feat(weather): add farming tip by temperature — weather
+[2026-03-07T09:00:00] S. Chaitanya — feat(soil): add soil characteristics lookup — soil
