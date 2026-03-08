@@ -157,3 +157,4 @@
 [2026-03-06T11:00:00] S. Chaitanya — feat(weather): add farming tip by temperature — weather
 [2026-03-07T09:00:00] S. Chaitanya — feat(soil): add soil characteristics lookup — soil
 [2026-03-07T11:00:00] S. Chaitanya — style: add alert card styles and responsive breakpoints — ui
+[2026-03-08T09:00:00] S. Chaitanya — docs: add CONTRIBUTING.md with code style guidelines — docs
