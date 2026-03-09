@@ -159,3 +159,4 @@
 [2026-03-07T11:00:00] S. Chaitanya — style: add alert card styles and responsive breakpoints — ui
 [2026-03-08T09:00:00] S. Chaitanya — docs: add CONTRIBUTING.md with code style guidelines — docs
 [2026-03-08T11:00:00] S. Chaitanya — chore: add GitHub issue template for bug reports — devops
+[2026-03-09T09:00:00] S. Chaitanya — refactor(gemini): improve prompts with error handling — ai
