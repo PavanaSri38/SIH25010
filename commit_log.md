@@ -162,3 +162,4 @@
 [2026-03-09T09:00:00] S. Chaitanya — refactor(gemini): improve prompts with error handling — ai
 [2026-03-09T11:00:00] S. Chaitanya — feat(ui): add reusable NavBar component — ui
 [2026-03-10T09:00:00] S. Chaitanya — feat(ui): add ErrorBanner component — ui
+[2026-03-10T11:00:00] S. Chaitanya — feat(api): add GET /api/crops/list endpoint — backend
