@@ -165,3 +165,4 @@
 [2026-03-10T11:00:00] S. Chaitanya — feat(api): add GET /api/crops/list endpoint — backend
 [2026-03-11T09:00:00] S. Chaitanya — feat(backend): add in-memory rate limiter — backend
 [2026-03-11T11:00:00] S. Chaitanya — feat(backend): add TTL cache service — backend
+[2026-03-12T09:00:00] S. Chaitanya — fix(auth): handle expired OTP edge case — fix
