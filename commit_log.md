@@ -168,3 +168,4 @@
 [2026-03-12T09:00:00] S. Chaitanya — fix(auth): handle expired OTP edge case — fix
 [2026-03-12T11:00:00] S. Chaitanya — fix(weather): handle city not found error — fix
 [2026-03-13T09:00:00] S. Chaitanya — fix(market): fix trend calculation for stable prices — fix
+[2026-04-01T09:00:00] R. Pavana Sri — fix(ui): fix mobile layout on Dashboard page — fix
