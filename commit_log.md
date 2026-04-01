@@ -170,3 +170,4 @@
 [2026-03-13T09:00:00] S. Chaitanya — fix(market): fix trend calculation for stable prices — fix
 [2026-04-01T09:00:00] R. Pavana Sri — fix(ui): fix mobile layout on Dashboard page — fix
 [2026-04-01T11:00:00] R. Pavana Sri — fix(soil): fix health score calculation edge case — fix
+[2026-04-01T13:00:00] M. Hema Latha — fix(crop): fix season filter in recommendation engine — fix
