@@ -81,3 +81,4 @@
 [2026-04-01T09:00:00] R. Pavana Sri — fix(ui): fix mobile layout on Dashboard page — fix
 [2026-04-01T11:00:00] R. Pavana Sri — fix(soil): fix health score calculation edge case — fix
 [2026-04-01T13:00:00] M. Hema Latha — fix(crop): fix season filter in recommendation engine — fix
+[2026-04-02T09:00:00] D.J.V.V. Bhaskar — fix(disease): fix image preprocessing for PNG files — fix
