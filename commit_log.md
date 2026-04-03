@@ -84,3 +84,4 @@
 [2026-04-02T09:00:00] D.J.V.V. Bhaskar — fix(disease): fix image preprocessing for PNG files — fix
 [2026-04-02T11:00:00] S. Chaitanya — fix(i18n): fix missing translation keys in Telugu — fix
 [2026-04-02T13:00:00] R. Pavana Sri — perf: add response caching for weather endpoint — perf
+[2026-04-03T09:00:00] M. Hema Latha — perf: optimise Gemini prompt for faster response — perf
